@@ -1,0 +1,22 @@
+{
+  "name": "mypersonalwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaqshaw/MyPersonalWebsite.git"
+  },
+  "author": "shaquilles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaqshaw/MyPersonalWebsite/issues"
+  },
+  "homepage": "https://github.com/shaqshaw/MyPersonalWebsite#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}

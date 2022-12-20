@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-logo {
+  height: 37vmin;
+  pointer-events: none;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.Bio {
+  font-size: calc(10px + 1vmin) !important;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Main-buttons {
+  margin-bottom: 36px;
+  margin-top: 24px;
+}
+
+.Button-wrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 36px;
+}
+
+.socials {
+  color: white;
+}

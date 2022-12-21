@@ -1,11 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-// import ListGroup from 'react-bootstrap/ListGroup';
+import ListGroup from 'react-bootstrap/ListGroup';
 import '../App.css';
 
 function Books() {
     return(
         <div className="App">
-            {/* <h1 className="titles">Books</h1>
+            <h1 className="titles">Books</h1>
             <ListGroup>
                 <ListGroup.Item className="Bio">
                     <a href="https://www.amazon.com/s?k=the+alchemist&ref=nb_sb_noss">The Alchemist</a>
@@ -37,7 +37,7 @@ function Books() {
                 <ListGroup.Item className="Bio">
                     <a href="https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331/ref=sr_1_1?crid=2IE3LZD7B2L3U&keywords=think+and+grow+rich&qid=1671583572&s=books&sprefix=think+and+grow+rich%2Cstripbooks%2C130&sr=1-1">Think and Grow Rich</a>
                 </ListGroup.Item>
-            </ListGroup> */}
+            </ListGroup>
         </div>
     );
 }

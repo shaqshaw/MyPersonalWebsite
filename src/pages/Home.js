@@ -10,11 +10,12 @@ function Home() {
         <NavMenu/>
         <img src={profile} className="App-logo" alt="logo" />
         <div>
-        <p className="Bio-name">Shaquille Shaw</p>
-        <p className="Bio-title">Software Engineering Consultant</p>
+            <p className="Bio-name">Shaquille Shaw</p>
+            <p className="Bio-title">Software Engineering Consultant</p>
         </div>
+        <p className="catch-phrase">Building & Scaling Cloud-Based Solutions</p>
         <div className="Button-wrapper">
-            <Button className="Main-buttons" variant="primary" href="mailto:shaquilles.shaw@gmail.com">Contact Me</Button>
+            <Button className="Main-buttons" variant="warning" href="mailto:shaquilles.shaw@gmail.com">Contact Me</Button>
         </div>
     </div>
   );

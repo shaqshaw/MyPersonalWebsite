@@ -1,10 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ListGroup from 'react-bootstrap/ListGroup';
 import '../App.css';
+import NavMenu from '../components/NavMenu';
 
 function Books() {
     return(
         <div className="App">
+            <NavMenu/>
             <h1 className="titles">Books</h1>
             <ListGroup>
                 <ListGroup.Item className="Bio">

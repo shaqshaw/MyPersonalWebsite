@@ -6,7 +6,7 @@
   flex-direction: column;
   align-items: center;
   font-size: calc(10px + 2vmin);
-  justify-content: center;
+  justify-content: space-evenly;
   color: white;
 }
 
@@ -15,6 +15,20 @@
   pointer-events: none;
   margin-top: 30px;
   margin-bottom: 20px;
+}
+
+.bg-dark {
+  --bs-bg-opacity: 0 !important;
+}
+
+.Nav-Menu {
+  position: absolute;
+  right: 24px;
+  top: 24px;
+}
+
+.navbar-toggler {
+  border: 0px solid var(--bs-navbar-toggler-border-color) !important;
 }
 
 .Bio {

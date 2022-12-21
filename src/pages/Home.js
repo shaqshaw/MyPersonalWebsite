@@ -12,7 +12,7 @@ function Home() {
       <img src={profile} className="App-logo" alt="logo" />
       <div>
         <p className="Bio">Shaquille Shaw</p>
-        <p className="Bio">Freelance Software Engineer</p>
+        <p className="Bio">Software Engineer Consultant</p>
       </div>
       <div className="Button-wrapper">
         <Link to="/projects"><Button className="Main-buttons" variant="primary">Projects</Button></Link>

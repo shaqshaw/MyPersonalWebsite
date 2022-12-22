@@ -37,7 +37,8 @@
 
 .catch-phrase {
   font-weight: 900;
-  color: aquamarine
+  color: slategray;
+  width: 64%
 }
 
 .Bio-name {

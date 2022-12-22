@@ -80,3 +80,9 @@
   padding-top: 36px;
   padding-bottom: 24px;
 }
+
+.card-info {
+  color: initial;
+  font-size: initial;
+  text-align: initial;
+}

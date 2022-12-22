@@ -25,8 +25,7 @@ function NavMenu() {
                     <Nav className="justify-content-end flex-grow-1 pe-3">
                         <Nav.Link href="/">Home</Nav.Link>
                         <Nav.Link href="/projects">Projects</Nav.Link>
-                        <Nav.Link href="/aboutme">About Me</Nav.Link>
-                        <Nav.Link href="/blogs">Blog</Nav.Link>
+                        <Nav.Link href="https://www.linkedin.com/in/shaquille-shaw-4b484a101/">About Me</Nav.Link>
                     </Nav>
                 </Offcanvas.Body>
                 </Navbar.Offcanvas>

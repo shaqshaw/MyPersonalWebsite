@@ -33,7 +33,7 @@ function Projects() {
                             <Card.Body>
                                 <Card.Title className="card-info">Augustus' Trading Bot</Card.Title>
                                 <Card.Text className="card-info">
-                                    This is an API providing important stock and currency data for developers.
+                                    This is a platform for users to create trading bots and subscribe to others.
                                 </Card.Text>
                                 <Button variant="success">Visit Site</Button>
                             </Card.Body>
@@ -43,9 +43,9 @@ function Projects() {
                         <Card>
                             <Card.Img variant="top" src={profile} />
                             <Card.Body>
-                                <Card.Title className="card-info">Card Title</Card.Title>
+                                <Card.Title className="card-info">SEM's Loan Services</Card.Title>
                                 <Card.Text className="card-info">
-                                    This is an API providing important stock and currency data for developers.
+                                    This is a platform for users to seek , get qualified for and distributed a loan.
                                 </Card.Text>
                                 <Button variant="success">Visit Site</Button>
                             </Card.Body>

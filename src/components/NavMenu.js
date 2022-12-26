@@ -26,6 +26,7 @@ function NavMenu() {
                         <Nav.Link href="/">Home</Nav.Link>
                         <Nav.Link href="/projects">Projects</Nav.Link>
                         <Nav.Link href="https://www.linkedin.com/in/shaquille-shaw-4b484a101/">About Me</Nav.Link>
+                        <Nav.Link href="https://dev.to/shaquille_shaw">Technology Blog</Nav.Link>
                     </Nav>
                 </Offcanvas.Body>
                 </Navbar.Offcanvas>

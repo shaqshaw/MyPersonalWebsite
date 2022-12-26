@@ -21,6 +21,10 @@
   --bs-bg-opacity: 0 !important;
 }
 
+.project-columns {
+  padding-bottom: 24px;
+}
+
 .Nav-Menu {
   position: absolute;
   right: 24px;

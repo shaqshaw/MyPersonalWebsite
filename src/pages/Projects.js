@@ -13,43 +13,51 @@ function Projects() {
         <div className="App">
             <NavMenu/>
             <h1 className="titles">Projects</h1>
-
             <Container>
                 <Row>
-                    <Col xsm={4}>
+                    <Col className="project-columns" xs={12} sm={6} md={4} lg={3}>
                         <Card>
                             <Card.Img variant="top" src={profile} />
                             <Card.Body>
-                                <Card.Title className="card-info">Card Title</Card.Title>
+                                <Card.Title className="card-info">ZoneSVC</Card.Title>
                                 <Card.Text className="card-info">
-                                    Some quick example text to build on the card title and make up the
-                                    bulk of the card's content.
+                                    This is an API providing important stock and currency data for developers.
                                 </Card.Text>
                                 <Button variant="success">Visit Site</Button>
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col xs={4}>
+                    <Col className="project-columns" xs={12} sm={6} md={4} lg={3}>
                         <Card>
                             <Card.Img variant="top" src={profile} />
                             <Card.Body>
-                                <Card.Title className="card-info">Card Title</Card.Title>
+                                <Card.Title className="card-info">Augustus' Trading Bot</Card.Title>
                                 <Card.Text className="card-info">
-                                    Some quick example text to build on the card title and make up the
-                                    bulk of the card's content.
+                                    This is an API providing important stock and currency data for developers.
                                 </Card.Text>
                                 <Button variant="success">Visit Site</Button>
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col xs={4}>
+                    <Col className="project-columns" xs={12} sm={6} md={4} lg={3}>
                         <Card>
                             <Card.Img variant="top" src={profile} />
                             <Card.Body>
                                 <Card.Title className="card-info">Card Title</Card.Title>
                                 <Card.Text className="card-info">
-                                    Some quick example text to build on the card title and make up the
-                                    bulk of the card's content.
+                                    This is an API providing important stock and currency data for developers.
+                                </Card.Text>
+                                <Button variant="success">Visit Site</Button>
+                            </Card.Body>
+                        </Card>
+                    </Col>
+                    <Col className="project-columns" xs={12} sm={6} md={4} lg={3}>
+                        <Card>
+                            <Card.Img variant="top" src={profile} />
+                            <Card.Body>
+                                <Card.Title className="card-info">Card Title</Card.Title>
+                                <Card.Text className="card-info">
+                                    This is an API providing important stock and currency data for developers.
                                 </Card.Text>
                                 <Button variant="success">Visit Site</Button>
                             </Card.Body>

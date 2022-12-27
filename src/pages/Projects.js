@@ -26,7 +26,7 @@ function Projects() {
                                 <Card.Text className="card-info">
                                     This is an API providing important stock and currency data for developers.
                                 </Card.Text>
-                                <Button variant="success">Visit Site</Button>
+                                <Button variant="success" href="https://www.zonesvc.com/">Visit Site</Button>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -38,7 +38,7 @@ function Projects() {
                                 <Card.Text className="card-info">
                                     This is a platform for users to create trading bots and subscribe to others bots.
                                 </Card.Text>
-                                <Button variant="success">Visit Site</Button>
+                                <Button variant="success" href="https://www.augustustrades.com/">Visit Site</Button>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -50,7 +50,7 @@ function Projects() {
                                 <Card.Text className="card-info">
                                     This is a platform for users to seek , get qualified for and distributed a loan.
                                 </Card.Text>
-                                <Button variant="success">Visit Site</Button>
+                                <Button variant="success" href="https://www.example.com/">Visit Site</Button>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -62,7 +62,7 @@ function Projects() {
                                 <Card.Text className="card-info">
                                     Description - Pending
                                 </Card.Text>
-                                <Button variant="success">Visit Site</Button>
+                                <Button variant="success" href="https://www.example.com/">Visit Site</Button>
                             </Card.Body>
                         </Card>
                     </Col>

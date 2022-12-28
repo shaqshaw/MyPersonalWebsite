@@ -38,7 +38,7 @@ function Projects() {
                                 <Card.Text className="card-info">
                                     This is a platform for users to create trading bots and subscribe to others bots.
                                 </Card.Text>
-                                <Button variant="success" href="https://www.augustustrades.com/">Visit Site</Button>
+                                <Button variant="success" href="https://www.augustusinc.com/">Visit Site</Button>
                             </Card.Body>
                         </Card>
                     </Col>
